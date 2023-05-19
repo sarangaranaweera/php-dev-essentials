@@ -7,6 +7,7 @@ namespace App\Models;
 class Employee                                      
 {
     protected $name;         
+    
     protected $age;
 
     public function setName($name)
